@@ -13,6 +13,7 @@ Border Front Bottom Left,10721,198,horizontal,TL,1,1
 Border Front Bottom Right,2551,204,horizontal,TL,1,1
 Border Front Edge Left,9697,45,horizontal,TL,1,1
 Border Front Edge Right,1531,45,horizontal,TL,1,1
+Border Front Middle Left,10209,234,horizontal,TL,1,1
 Border Front Middle Right,2041,231,horizontal,TL,1,1
 Border Front Top Left,9185,150,horizontal,TL,1,1
 Border Front Top Right-1,1021,168,horizontal,TL,1,1
@@ -34,7 +35,6 @@ POE Left Dove,13793,114,horizontal,TL,1,1
 POE On,5962,78,horizontal,TL,1,1
 POE Peace,13907,216,horizontal,TL,3,1
 POE Right Dove,5611,114,horizontal,TL,1,1
-Border Front Middle Left,10209,234,horizontal,TL,1,1
 Sleigh,37343,1,horizontal,TL,1,1
 Star 1,37329,1,horizontal,TL,1,1
 Star 10,37338,1,horizontal,TL,1,1
